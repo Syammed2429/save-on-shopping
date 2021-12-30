@@ -13,7 +13,7 @@ const Navbar: FC = () => {
 
             <div>
 
-                <Box className="bg" h='126px' pos='fixed' top='0' left='0' right='0'>
+                <Box className="bg" h='126px' pos='fixed' top='0' left='0' right='0' z-index='555'>
 
                     <Flex >
                         <Box w='70px' h='10'  >
