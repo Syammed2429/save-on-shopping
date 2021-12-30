@@ -1,5 +1,5 @@
-import React, { FC } from 'react'
-import { Text, Image, Grid, GridItem, Stack } from '@chakra-ui/react'
+import { FC } from 'react'
+import { Text, Image, Grid, GridItem } from '@chakra-ui/react'
 import { Button } from '@chakra-ui/react'
 import bag from '../../assets/images/bag.svg'
 
