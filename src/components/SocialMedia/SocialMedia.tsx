@@ -1,5 +1,5 @@
 import { FC } from 'react'
-import { Box, Container, Flex, Stack, Text } from '@chakra-ui/react'
+import { Box, Container, Stack, Text } from '@chakra-ui/react'
 import { SiMessenger } from 'react-icons/si';
 import { FaFacebookF } from 'react-icons/fa'
 import { BsInstagram, BsWhatsapp, BsTelegram } from 'react-icons/bs'
