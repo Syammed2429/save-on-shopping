@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import logo from '../../assets/images/logo2.svg'
-import { Flex, Text, Image, Container, Spacer, Box } from '@chakra-ui/react'
+import { Flex, Text, Image, Spacer, Box } from '@chakra-ui/react'
 import './navbar.css'
 
 
