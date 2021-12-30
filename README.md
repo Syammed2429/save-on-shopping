@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+## Save On Shopping
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a simple web application that will give you the shopping coupons while shopping ( Under Production).
 
-## Available Scripts
+<h2 align="center">
+  <a href="https://save-on-shopping.vercel.app/" target="_blank">Save On Shopping</a>
+</h2>
 
-In the project directory, you can run:
+<p align="center">
+  Sample Desktop Application 👇
+</p>
 
-### `npm start`
+<p align="center">
+<img src="./src/assets/images/dp.png">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Built With
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project was built using these technologies.
 
-### `npm test`
+- JavaScript
+- HTML
+- CSS
+- React
+- TypeScript
+- ChakraUI
+- VsCode
+- Deployed on Vercel
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features are: 😀
 
-### `npm run build`
+- Get discount coupons for each and every online shop.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Show your support
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📌 Please feel free to contribute to this project with your commits, and share this with your friends if you like this projects.😁 😃
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Give a ⭐ if you like this website! Fork it and contribute
