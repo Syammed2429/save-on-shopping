@@ -14,7 +14,7 @@ const Footer: FC = () => {
 
                 <SimpleGrid columns={3} spacingX='40px' spacingY='-50px'>
                     <Box height='80px'>
-                        <Image src={logo} alt='footer logo' />
+                        <Image src={logo} alt='footer-logo' />
 
                     </Box>
                     <Box height='80px' fontSize='33px' >

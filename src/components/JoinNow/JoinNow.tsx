@@ -10,7 +10,7 @@ const JoinNow: FC = () => {
 
             <Grid mt='10%' gap={5}>
                 <GridItem colStart={2} colSpan={6} h='10'  >
-                    <Image w='716px' h='590.72px' src={bag} />
+                    <Image w='716px' h='590.72px' src={bag} alt='shopping-bag' />
 
                 </GridItem>
                 <GridItem colStart={8} colEnd={6} h='10'>
