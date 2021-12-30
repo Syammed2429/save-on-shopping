@@ -1,4 +1,4 @@
-import { Box, Image, Center, Container, Grid, GridItem, SimpleGrid, Stack, Text } from '@chakra-ui/react'
+import { Box, Image, Center, SimpleGrid, Text } from '@chakra-ui/react'
 import { FC } from 'react'
 
 const Reviews: FC = () => {
@@ -13,7 +13,7 @@ const Reviews: FC = () => {
 
                 <Box height='469px' w='593px' border='2px solid black'>
                     <Center>
-                        <Image src="https://picsum.photos/200" borderRadius='50%' my='6%' />
+                        <Image src="https://picsum.photos/200" borderRadius='50%' my='6%' alt='reviews' />
                     </Center>
                     <Text fontSize="34px" px='3%'>
                         I was looking to buy laptop but I was confused.Thanks to save on shopping team to help me.
@@ -22,7 +22,7 @@ const Reviews: FC = () => {
 
                 <Box height='469px' w='593px' border='2px solid black'>
                     <Center>
-                        <Image src="https://picsum.photos/200" borderRadius='50%' my='6%' />
+                        <Image src="https://picsum.photos/200" borderRadius='50%' my='6%' alt='reviews' />
                     </Center>
                     <Text fontSize="34px" px='3%'>
                         Thanks to save on shopping.in .The best platform I have seen helped me to find best deal and save money.
